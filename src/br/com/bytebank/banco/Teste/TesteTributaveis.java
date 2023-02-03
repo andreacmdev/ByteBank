@@ -1,4 +1,7 @@
-package Teste;
+package br.com.bytebank.banco.Teste;
+
+import br.com.bytebank.banco.Modelo.*;
+
 public class TesteTributaveis {
 
 	public static void main(String[] args) {
