@@ -2,7 +2,6 @@ package br.com.bytebank.banco.Teste;
 
 import br.com.bytebank.banco.Modelo.*;
 
-
 public class TesteContas {
 
 	public static void main(String[] args) throws SaldoInsuficienteException{
@@ -17,7 +16,6 @@ public class TesteContas {
 		
 		System.out.println("CC: " + cc.getSaldo());
 		System.out.println("CP: " + cp.getSaldo());
-
 
 	}
 

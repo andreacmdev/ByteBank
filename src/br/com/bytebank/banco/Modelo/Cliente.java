@@ -1,4 +1,11 @@
 package br.com.bytebank.banco.Modelo;
+
+/**
+ * Classe responsavel por iniciar um cliente dentro do banco
+ * 
+ * @author André Machado
+ * @category banco
+ */
 public class Cliente {
 
     private String nome;
