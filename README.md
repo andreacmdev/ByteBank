@@ -1,2 +1,2 @@
 # byteBank
-Projeto criado para exercitar o aprendizado do curso Oracle Next Education (Alura)
+Projeto criado para exercitar o aprendizado de Java.
